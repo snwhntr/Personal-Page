@@ -1,0 +1,143 @@
+.topC {
+    background-color: #139487;
+    width: 100%;
+    overflow:auto;
+}
+
+h1 {
+    padding-top: 100px;
+    margin: 50px auto 0 auto;
+    font-size: 5.62rem;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: 'Pacifico', cursive;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+.bottom-container>a:hover {
+    color: #EAF6F6;
+}
+
+p>a:hover {
+    color: black;
+}
+
+.profile >img {
+    border-radius: 25%;
+    width: 200px;
+    height: auto;
+    margin-top: 50px;
+    
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.skill-row :last-child {
+    line-height: 2;
+    width: 40%;
+    margin: 40px auto;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.flow {
+    position: absolute;
+
+}
+.top {
+    position: absolute;
+    right: 400px;
+    top: 75px;
+}
+
+p {
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.footer-link {
+    margin: auto 5px;
+    font-size: 1.2rem;
+
+}
+
+.bottom-container {
+    margin-top: 50px;
+    font-size: 0.625 rem;
+    background-color: #66BFBF;
+    padding: 50px;
+}
+
+
+.refrences {
+    font-size: 0.6rem;
+    position: relative;
+    top: 15px;
+}
+
+hr {
+    width: 10%;
+    border: none;
+    border-top: dotted  #c2cbcb;
+    border-width: 10px;
+    margin: 100px auto;
+}
+
+.bottom-container >p {
+    color: #EAF6F6;
+    font-size: 0.8rem;
+}
+
+.contact-me>p {
+    margin-bottom: 50px;
+}
+
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #498a8a);
+    background-image: -moz-linear-gradient(top, #66BFBF, #498a8a);
+    background-image: -ms-linear-gradient(top, #66BFBF, #498a8a);
+    background-image: -o-linear-gradient(top, #66BFBF, #498a8a);
+    background-image: linear-gradient(to bottom, #66BFBF, #498a8a);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #EAF6F6;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #b6d9d9;
+    background-image: -webkit-linear-gradient(top, #b6d9d9, #66BFBF);
+    background-image: -moz-linear-gradient(top, #b6d9d9, #66BFBF);
+    background-image: -ms-linear-gradient(top, #b6d9d9, #66BFBF);
+    background-image: -o-linear-gradient(top, #b6d9d9, #66BFBF);
+    background-image: linear-gradient(to bottom, #b6d9d9, #66BFBF);
+    text-decoration: none;
+  }
